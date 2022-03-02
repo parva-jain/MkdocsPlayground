@@ -5,11 +5,9 @@ nav:
   - Home: index.md
   - About: about.md
 markdown_extensions:
-  - toc:
-      permalink: True
   - attr_list
   - pymdownx.highlight:
-      anchor_linenums: true
+      anchor_linenums: false
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.superfences
