@@ -6,8 +6,7 @@ nav:
   - About: about.md
 markdown_extensions:
   - attr_list
-  - pymdownx.highlight:
-      anchor_linenums: false
+  - pymdownx.highlight
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.superfences
